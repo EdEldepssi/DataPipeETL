@@ -5,6 +5,20 @@ __pycache__/
 
 # C extensions
 *.so
+# Secrets
+sa-secret.yaml
+sa-token-secret.yaml
+xetra_run.png
+mprofile_20231207174300.dat
+improved_xetra_run.png
+
+get_helm.sh
+dashboard-admin-sa.yaml
+argo-rolebinding.yml
+argo-role.yml
+.gitignore
+.vscode/
+
 
 # Distribution / packaging
 .Python
